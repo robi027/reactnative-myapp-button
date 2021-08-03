@@ -1,0 +1,23 @@
+{
+  "name": "@myapp/button",
+  "version": "1.0.0",
+  "description": "button component",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.x",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-flow": "^7.14.5",
+    "flow-bin": "^0.156.0",
+    "react": "^17.0.2",
+    "react-native": "^0.64.2"
+  }
+}
